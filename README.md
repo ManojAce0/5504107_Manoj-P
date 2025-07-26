@@ -2,7 +2,7 @@
 ## My Certificates
 
 ### Agile Certificate  
-![Agile Certificate](SDLC/agile.png)
+![Agile Certificate](sdlc/agile.png)
 
 ### Git Certificate  
-![Git Certificate](GIT/certificates/git_certificate.jpg)
+![Git Certificate](git/certificates/git_certificate.jpg)
