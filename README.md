@@ -6,3 +6,6 @@
 
 ### Git Certificate  
 ![Git Certificate](git/certificates/git_certificate.jpg)
+
+### linux practice
+ ![Linux Practice](linux/practice/linuxpractice.jpg)
