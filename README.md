@@ -8,7 +8,7 @@
 ![Git Certificate](git/certificates/git_certificate.jpg)
 
 ### linux practice
- ![Linux Practice](linux/practice/linuxpractice.jpg)
+ ![Linux Practice](linux/practiceimages/linuxpractice.jpg)
 
  ### linux practice 2
- ![Linux Practice](linux/practice/linuxpractice2.jpg)
+ ![Linux Practice](linux/practiceimages/linuxpractice2.jpg)
