@@ -9,3 +9,6 @@
 
 ### linux practice
  ![Linux Practice](linux/practice/linuxpractice.jpg)
+
+ ### linux practice 2
+ ![Linux Practice](linux/practice/linuxpractice2.jpg)
