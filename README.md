@@ -7,8 +7,11 @@
 ### Git Certificate  
 ![Git Certificate](git/certificates/git_certificate.jpg)
 
-### C Certificate  
+### C Beginner Certificate   
 ![C Certificate](c/certificates/beginner.jpg)
+
+### C Intermidate Certificate
+![C Certificate](c/certificates/c_intermidiate.jpg)
 
 ### linux practice
  ![Linux Practice](linux/practiceimages/linuxpractice.jpg)
