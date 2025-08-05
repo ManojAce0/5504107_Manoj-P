@@ -11,7 +11,7 @@
 ![C Certificate](c/certificates/beginner.jpg)
 
 ### C Intermidate Certificate
-![C Certificate](c/certificates/c_intermidiate.jpg)
+![C Intermidiate Certificate](c/certificates/c_intermidiate.jpg)
 
 ### linux practice
  ![Linux Practice](linux/practiceimages/linuxpractice.jpg)
